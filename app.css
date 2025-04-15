@@ -1,0 +1,45 @@
+/* Banner Background */
+.banner {
+    background-color: #8B4000; 
+    color: black;
+    text-align: center;
+    padding: 40px 0;
+  }
+  
+  /* Navigation Bar */
+  .navbar {
+    background-color: #f0980c; /* lighter orange/yellowish */
+    text-align: center;
+    padding: 15px 0;
+  }
+  
+  .navbar a {
+    margin: 0 20px;
+    text-decoration: none;
+    color: green;
+    font-weight: bold;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  /* Content Section */
+  .content {
+    background-color: #f0980c; /* same as navbar for consistency */
+    padding: 20px 50px;
+    font-family: 'Georgia', serif;
+  }
+  
+  .content h2 {
+    font-weight: bold;
+    font-size: 24px;
+  }
+  
+  .content p {
+    font-size: 16px;
+    color: #f30808;
+  }
+  .content p1 {
+    font-size: 16px;
+    color: black;
+  }
+  
+  
